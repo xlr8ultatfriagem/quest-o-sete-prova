@@ -1,0 +1,11 @@
+.escola-titulo {
+    padding: 24px 0;
+}
+
+.escola{ display: flex; 
+    color: rgb(0, 0, 0); 
+    background-image: radial-gradient(circle at 77.56% 50%, #f330ed 0, #d51ff2 12.5%, #af11f6 25%, #7d0dfa 37.5%, #0815fc 50%, #0021fe 62.5%, #002bff 75%, #0032ff 87.5%, #0036ff 100%); 
+    justify-content: center;
+    align-items: center; 
+    padding: 24px 0;
+}
